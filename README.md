@@ -4,7 +4,7 @@ Hi 👋 My name is Kelechi Ebiri
 Software Engineer
 -----------------
 
-I fancy contributing to open source projects. I’m currently building my skills in Python, JavaScript, and web development frameworks.
+I fancy working on backend development and contributing to open source projects. I’m currently building my skills in Python, JavaScript, and web development frameworks.
 
 * 🌍  I'm based in Port-Harcourt, Rivers State, Nigeria
 * 🧠  I'm learning Deno
