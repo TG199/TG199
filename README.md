@@ -8,7 +8,7 @@ I fancy working on backend development and contributing to open source projects.
 
 * 🌍  I'm based in Port-Harcourt, Rivers State, Nigeria
 * 🧠  I'm learning Deno
-* 🤝  I'm open to collaborating on Open Source projects
+* 🤝  I'm open to work as a backend dev. (Golang or Nodejs)
 * ⚡  Full time LFC fan (you'll never walk alone)
 
 <a href="https://www.github.com/TG199" target="_blank" rel="noreferrer"><img
