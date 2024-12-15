@@ -6,7 +6,7 @@ Software Engineer
 
 I fancy working on backend development and contributing to open source projects. I’m currently building my skills in Python, JavaScript, and web development frameworks.
 
-* 🌍  I'm based in Port-Harcourt, Rivers State, Nigeria
+* 🌍  I'm from Nigeria. 
 * 🧠  I'm learning Deno
 * 🤝  I'm open to work as a backend dev. (Golang or Nodejs)
 * ⚡  Full time LFC fan (you'll never walk alone)
