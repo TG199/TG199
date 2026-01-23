@@ -1,6 +1,6 @@
 # Kelechi Ebiri
 
-Backend-focused software engineer with a strong interest in systems, infrastructure, and building reliable products that scale. I spend most of my time working close to the backend—designing APIs, reasoning about performance, and understanding how things actually work under the hood.
+Backend-focused software engineer with a strong interest in systems, infrastructure, and building reliable products that scale. I spend most of my time working close to the backend designing APIs, reasoning about performance, and understanding how things actually work under the hood.
 
 I enjoy problems where correctness, simplicity, and long-term maintainability matter more than hype.
 
